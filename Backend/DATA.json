@@ -1,0 +1,17 @@
+[
+    {
+        "username": "Ajinkya",
+        "password": "hello",
+        "timestamp": "2025-07-17T05:41:59.653Z"
+    },
+    {
+        "username": "Pratik",
+        "password": "pass",
+        "timestamp": "2025-07-17T05:50:08.965Z"
+    },
+    {
+        "username": "Harsh",
+        "password": "bro",
+        "timestamp": "2025-07-17T05:50:41.885Z"
+    }
+]
